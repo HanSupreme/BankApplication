@@ -1,6 +1,6 @@
 # SimpleBankApplication
 
-This is a very basic version of a Bank Application
+This is a simple version of a Bank Application
 
 Functions:
 
