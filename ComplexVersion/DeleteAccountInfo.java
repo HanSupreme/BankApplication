@@ -1,5 +1,3 @@
-package November19BankAccount;
-
 import java.util.Arrays;
 
 public class DeleteAccountInfo {
