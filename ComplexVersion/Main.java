@@ -1,5 +1,3 @@
-package November19BankAccount;
-
 import java.util.Scanner;
 
 public class Main {
