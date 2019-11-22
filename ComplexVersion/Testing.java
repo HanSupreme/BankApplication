@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Testing {
 	
 	static Functions functions = new Functions();
 	static MainMenu MainMenu = new MainMenu();
