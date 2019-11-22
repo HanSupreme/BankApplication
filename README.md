@@ -38,11 +38,11 @@ Delete
 The application will have a menu to give user the options
 ---------------------------------------------------------
 
-Option 1 - Add
-Option 2 - Lookup/read (showAccounts)
-Option 3 - Update (updateAccounts)
-Option 4 - Delete (remove/delete accounts)
-Option 5 - Exit
+1. Option 1 - Add
+2. Option 2 - Lookup/read (showAccounts)
+3. Option 3 - Update (updateAccounts)
+4. Option 4 - Delete (remove/delete accounts)
+5. Option 5 - Exit
  
 What is the maximum amount of accounts we can handle?
 ------------------------------------------------------
