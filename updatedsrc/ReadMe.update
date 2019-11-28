@@ -3,7 +3,7 @@ Two new features are added to the application.
 User(s) can now import and export information from a txt/ csv/ database etc
 
 Import:
---------
+=======
 
 User can now import new account information.
 By assigning a new ID#, first name and last name to new user
@@ -11,7 +11,7 @@ By assigning a new ID#, first name and last name to new user
 All new Account information can be stored to a txt/ csv/ database etc
 
 Export:
--------
+=======
 
 User can now export account information from a txt/ csv/ database etc
 Can view, update, and delete information and have it updated to file
