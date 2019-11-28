@@ -16,7 +16,7 @@ public class Main {
 
         do {
 
-            System.out.print("\n [ ENTER OPTION: ] \n");
+            System.out.print("\n [ ENTER OPTION: ] ");
             choice = sc.nextInt();
 
             if (choice < 1 || choice > 7)

@@ -1,5 +1,7 @@
 package BankApplication;
 
+import java.util.Arrays;
+
 public class AccountDAO {
     final int SIZE = 500;
     Account[] accounts = new Account[SIZE];
@@ -44,6 +46,14 @@ public class AccountDAO {
         if (i<=last) index = i;
         return index;
     }
+
+    protected boolean existAccountId(int accountId) {
+        Arrays.sort(this.accounts);
+        int result = Arrays.binarySearch(this.accounts, accountId);
+
+        return result < 0 ? false:true;
+    }
+
     public boolean isAccountsEmpty() {
         return last < 0 ? true:false;
     }
